@@ -3,5 +3,4 @@ https://github.com/user-attachments/assets/e96a10f0-e096-416d-b6e7-569a06cd072a
 
 # A quick branding guideline.
 EatoVo branding guideline
-![Eatovo Branding Guide Lines](https://github.com/user-attachments/assets/ba235293-418e-4754-9a8a-b30f351cd429)
-
+![eatovo branding revised](https://github.com/user-attachments/assets/ac2013b3-2701-4a9f-8406-7e7fb5c70f2e)
