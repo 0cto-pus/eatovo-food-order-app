@@ -11,6 +11,15 @@
       "resizeMode": "contain",
       "backgroundColor": "#ffffff"
     },
+    "plugins": [
+      [
+        "@stripe/stripe-react-native",
+        {
+          "merchantIdentifier": ["com.octopusdev.online_food_order_app"],
+          "enableGooglePay": false
+        }
+      ]
+    ],
     "ios": {
       "supportsTablet": true
     },
